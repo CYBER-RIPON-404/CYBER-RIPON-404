@@ -10,8 +10,7 @@
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=I+am+CYBER+-RIPON-+404;+It's+Not+A+Just+Name+Bro;It's+A+Brand;Thank+You+Everyone+LvuAll)](https://git.io/typing-svg)
- 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F71C1C&background=FFFFFF&width=435&lines=Assalamualaikum+Brother;Welcome+To+My+Github+Profile;I'm+Mr+MD+RIPON+HASAN+TALUKDAR;Cyber+Attacker+%26+Security+Specialist;Spammer+and+Programmer;Thank+you+My+Tols+User)](https://git.io/typing-svg)
 </p>
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
