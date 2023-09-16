@@ -55,10 +55,6 @@
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
-- ⚡ Fun fact **I think I am funny**
- 
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
- 
  
 ### ⚙️   Language & programming
  
@@ -68,14 +64,9 @@
  
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript) 
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react) 
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js) 
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5) 
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6) 
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git) 
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github) 
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC) 
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator) 
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop) 
@@ -93,14 +84,4 @@
   </tr>
 </table>
 <br>
- 
-### Profile Visitors
- 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=CYBER-RIPON-404.visitor-badge&left_color=blue&right_color=yellow)
-<br />
- 
-<h2><img width="28" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-graph.png" /><i> GitHub Contribution Graph :</i></h2>
- 
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/CYBER-RIPON-404/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=CYBER-RIPON-404&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
  
